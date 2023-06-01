@@ -52,14 +52,25 @@ button {
     padding: 0.5rem;
     border-radius: 1rem;
     cursor: pointer;
+    font-weight: 700;
+    transition: all 0.5s ease;
 }
 button:hover {
-
+    background-color: #acacac;
+    color: #000;
+    border-color: #130d3b;
+    padding: 0.7rem;
 }
 
 user {
     display: inline-block;
     color: rgb(255, 132, 0);
+    text-decoration: none;
+    cursor: pointer;
+}
+user:hover {
+    font-style: italic;
+    text-decoration: underline;
 }
 
 .title {
