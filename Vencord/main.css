@@ -3,10 +3,10 @@
 @import "https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css";
 
 /* radial status theme */
-@import "https://raw.githubusercontent.com/DiscordStyles/RadialStatus/deploy/RadialStatus.theme.css";
+@import "https://raw.githubusercontent.com/Goldenegg000/Goldenegg000.github.io/main/Vencord/RadialStatus/RadialStatus.theme.css";
 
 /* horizontal bar */
-@import "/HorizontalBar/HorizontalServerList.theme.css";
+@import "https://raw.githubusercontent.com/Goldenegg000/Goldenegg000.github.io/main/Vencord/HorizontalBar/HorizontalServerList.theme.css";
 
 /* no Size cap */
 @import "/zFloat.theme.css";
