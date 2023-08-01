@@ -1,0 +1,14 @@
+/* @import "https://raw.githubusercontent.com/DiscordStyles/DarkMatter/main/DarkMatter.theme.css"; */
+/* @import "https://raw.githubusercontent.com/AlexisJonsson/AlexisJonsson.github.io/master/BetterDiscordAddons/Themes/modern-discord.theme.css"; */
+@import "https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css";
+
+/* radial status theme */
+@import "https://raw.githubusercontent.com/DiscordStyles/RadialStatus/deploy/RadialStatus.theme.css";
+
+/* horizontal bar */
+@import "https://raw.githubusercontent.com/DiscordStyles/HorizontalServerList/deploy/HorizontalServerList.theme.css";
+
+@import "https://fonts.googleapis.com/css?family=Ubuntu";
+* {
+    font-family: "Ubuntu";
+}
