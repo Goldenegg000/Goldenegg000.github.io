@@ -11,7 +11,8 @@
 /* no Size cap */
 @import "https://raw.githubusercontent.com/Goldenegg000/Goldenegg000.github.io/main/Vencord/zFloat.theme.css";
 
-
+/* Settings modal */
+@import "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Themes/SettingsModal/SettingsModal.theme.css";
 
 @import "https://fonts.googleapis.com/css?family=Ubuntu";
 * {
