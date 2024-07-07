@@ -1,6 +1,8 @@
 /* @import "https://raw.githubusercontent.com/DiscordStyles/DarkMatter/main/DarkMatter.theme.css"; */
 /* @import "https://raw.githubusercontent.com/AlexisJonsson/AlexisJonsson.github.io/master/BetterDiscordAddons/Themes/modern-discord.theme.css"; */
-@import "https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css";
+
+/* @import "https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css"; */ /* old theme */
+@import("https://tiredmala.github.io/Roundmoled/main.css");
 
 /* radial status theme */
 @import "https://raw.githubusercontent.com/DiscordStyles/RadialStatus/deploy/RadialStatus.theme.css";
